@@ -5,7 +5,7 @@
 | :--- | :--- |
 | **소속** | 선문대학교 (Sun Moon University) |
 | **기간** | 2026. 05. 01. ~ 2026. 06. 15. (매주 6시간 강의) |
-| **팀 구성** | **차무관(팀장)**, 전희재, 조성빈 |
+| **팀 구성** | 차무관, 전희재, 조성빈 |
 
 ---
 
@@ -40,6 +40,6 @@
 ---
 
 ## 🛠️ 주요 활용 기술
-*   **Authentication:** JSON Web Token (JWT)
-*   **Security Tools:** OWASP ZAP, OWASP Juice Shop
-*   **Analysis:** Static/Dynamic Analysis of Web Architectures
+*   **Authentication:** JSON Web Token (JWT) Storage
+*   **Security Tools:** OWASP ZAP
+*   **Analysis:** Dynamic Analysis of Web Architectures
