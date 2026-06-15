@@ -17,7 +17,7 @@ jwt-storage-security-analysis/
 ├── 📁 report/
 │   ├── 📁 local_storage/                         # Local Storage 기반 프로젝트 ZAP 취약점 분석 결과
 │   └── 📁 cookies/                               # Cookies 기반 프로젝트 ZAP 취약점 분석 결과
-├── 📝 Automative Searching for Github.ipynb  # GitHub JWT 프로젝트 자동 탐색 및 필터링 스크립트
+├── 📝 Automative Searching for Github.ipynb  # GitHub JWT 프로젝트 자동 검색 프로그램
 ├── 📝 6팀 논문_브라우저 환경에서의 JWT 저장 방식 보안 취약점 분석 및 상황별 인증 아키텍처 제안 OWASP ZAP 분석 결과를 중심으로.pdf
 └── 📝 README.md
 ---
